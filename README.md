@@ -1,2 +1,2 @@
 # portfolio
-Just a portfolio for me
+Just a portfolio for Fran Luna Rose
