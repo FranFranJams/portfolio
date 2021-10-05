@@ -18,6 +18,6 @@ This is my list of the currently _**active**_ projects I have on my [Github prof
 
 
 ### My Socials
-[Twitter](https://twitter.com/_FranFranJams_)
-My Discord for my Development projects -> [Join](https://discord.gg/RuFCDdaHyN)
-Discord ID: Fran[They/She]#7787 (#0666 with Nitro)
+- [Twitter](https://twitter.com/_FranFranJams_)
+- My Discord for my Development projects -> [Join](https://discord.gg/RuFCDdaHyN)
+- Discord ID: Fran[They/She]#7787 (#0666 with Nitro)
