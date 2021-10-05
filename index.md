@@ -3,7 +3,7 @@
 
 
 ## Github Projects 
-This is my list of the currently _**active**_ projects I have on my Github profile (https://github.com/FranFranJams)
+This is my list of the currently _**active**_ projects I have on my [Github profile](https://github.com/FranFranJams)
 
 
 
