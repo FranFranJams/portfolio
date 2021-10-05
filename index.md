@@ -7,6 +7,8 @@ This is my list of the currently _**active**_ projects I have on my [Github prof
 
 `Java Projects:`
 - [Tower Defence](https://github.com/FranFranJams/Java-Tower-Defense)
+- [Crypt of The Moon RPG](https://github.com/FranFranJams/MoonCryptTheGame)
+- [Rosethorn - your very own chatbot pal :)](https://github.com/FranFranJams/rosethorn)
 
 
 
@@ -15,36 +17,7 @@ This is my list of the currently _**active**_ projects I have on my [Github prof
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### My Socials
+[Twitter](https://twitter.com/_FranFranJams_)
 My Discord for my Development projects -> [Join](https://discord.gg/RuFCDdaHyN)
+Discord ID: Fran[They/She]#7787 (#0666 with Nitro)
