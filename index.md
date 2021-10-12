@@ -12,17 +12,18 @@ This is my list of the currently _**active**_ projects I have on my [Github prof
 - [3D Renderer](https://github.com/FranFranJams/3D-Graphics-Renderer)
 
 
-# More about Rosethorn
-![Rosethorn Screenshot](https://i.hep.gg/VjGNCVCn6)
+### More about Rosethorn
+![Rosethorn Screenshot(1)](https://i.hep.gg/VjGNCVCn6)
+- __Rosethorn is a Java developed chatbot that is designed to be fun, innovative, small and easy to use.__
+- __She is something I have created based on a random idea I had at 3AM.__
+- __Since she only has pre-programmed messages based on Keywords such as "Hi" and "How are you", I feel she is not as unique as I would like and I will most likely add to her in the future.__
+
+#### More about Tower Defence                                                                                                                     
 
 
 
-# More about Tower Defence                                                                                                                     
 
-
-
-
-# More about the 3D Renderer
+##### More about the 3D Renderer
 
 
 
